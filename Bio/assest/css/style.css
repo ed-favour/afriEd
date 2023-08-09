@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family:'Courier New', Courier, monospace;
+    background: #f3f3f1;
+}
+a {
+    text-decoration: none;
+}
+.btn-primary {
+    background-color: #e0ebef;
+    color: #ffffff;
+}
+.fs-12 {
+    font-size: 12px;
+}
+.w-full {
+    width: 100% !important;
+}
+.w-md{
+    width: 50% !important;
+}
+.w-25{
+    width: 25% !important;
+}
+.w-80 {
+    width: 80px;
+}
+.h-80{
+    height: 80px;
+}
+.py-4 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.px-4{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.rounded-20 {
+    border-radius: 20px;
+}
+.rounded-full {
+    border-radius: 50%;
+}
+.no-shadow{
+    box-shadow: none;
+}
+.d-flex {
+    display: flex !important;
+}
+.align-items-center {
+    align-items: center !important;
+}
+.justify-content-center {
+    justify-content: center !important;
+}
+.flex-column {
+    flex-direction: column !important;
+}
+.flex-row {
+    flex-direction: row !important;
+}
+
+.text-center {
+    text-align: center;
+}
+.text-white {
+    color: #ffffff;
+}
+.text-dark {
+    color: #000000;
+}
+.bio {
+    background-image: url('../images/background.jpg');
+    background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 84vh;
+    margin: 20px 0;
+}
+.items:hover {
+    opacity: 0.9;
+}
+.icon-color-blue{
+    color: #e0ebef;
+}
+.icon-color-pink{
+    color: #f2f4e6;
+}
