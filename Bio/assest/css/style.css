@@ -11,7 +11,8 @@ a {
     text-decoration: none;
 }
 .btn-primary {
-    background-color: #e0ebef;
+    /* background-color: #e0ebef; */
+    background-color: #fbf9f8;
     color: #ffffff;
 }
 .fs-12 {
@@ -75,7 +76,7 @@ a {
     color: #000000;
 }
 .bio {
-    background-image: url('../images/background.jpg');
+    background-image: url('../img/background.jpg');
     background-position:  center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -90,4 +91,20 @@ a {
 }
 .icon-color-pink{
     color: #f2f4e6;
+}
+.btn-size{
+    margin: 0 35px; 
+    margin-top: 10px; 
+    height: 30px; 
+    border-radius: 5px;
+}.icon-margin {
+    margin-top: 80px;
+}
+.name{
+    margin-top: 15px;
+    margin-bottom: 10px
+}
+.heading{
+    margin-bottom: 80px; 
+    margin-top: 20;
 }
